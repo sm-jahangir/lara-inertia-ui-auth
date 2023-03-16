@@ -1,0 +1,17 @@
+Laravel UI auth Inertia React SSR
+==========================================
+    1. resources/js copy from breeze and paste ui auth path
+    2. package.json
+    3. Middleware HandleInertiaRequests copy paste
+    4. routes/web.php
+    5. composer.json ["inertiajs/inertia-laravel": "^0.6.3", "tightenco/ziggy": "^1.0"]
+    6. vite.config.js
+    7. resources/views/app.blade.php
+    8. Middleware HandleInertiaRequests [protected $rootView = 'app';]
+
+
+
+    Laravel React Inertia SSR
+    Braeeze =! , UI auth->ok
+
+
